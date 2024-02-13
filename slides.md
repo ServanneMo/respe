@@ -2,8 +2,9 @@
 
 ## Introduction à la photolittéature
 
-![](img/talbot a scene.jpg)<!-- .element: style="width:600px" -->
+![](img/talbot a scene.jpg)<!-- .element: style="width:450px" -->
 
+Enseignante : Servanne Monjour [servanne.monjour@sorbonne-universite.fr]
 
 ![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png) <!-- .element: class="logo" -->
 
