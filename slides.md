@@ -6,10 +6,18 @@
 
 Enseignante : Servanne Monjour [servanne.monjour@sorbonne-universite.fr]
 
+<!-- .element: style="font-size:1.3rem"-->
+
 ![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png) <!-- .element: class="logo" -->
 
 ===
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+### [Séance 1] 
+### Les "inventions littéraires de la photographie"
+
+![](img/optogramme_revueMedicale.png)<!-- .element: style="width:300px" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -364,3 +372,7 @@ La littérature crée une mythologie de la photographie, la photographie ouvre d
 
 
 <!-- .element: style="font-size:1.6rem" -->
+
+
+===
+
